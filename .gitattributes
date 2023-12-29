@@ -1,2 +1,2 @@
-*.pbxproj binary merge=union
-notebooks/** linguist-vendored
+# to change language of repo from Jupiternotebook to Python
+    *.ipynb linguist-language=python
